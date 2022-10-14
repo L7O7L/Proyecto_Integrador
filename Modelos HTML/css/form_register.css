@@ -1,0 +1,87 @@
+@font-face {
+
+    font-family: 'Geomanist Regular';
+    src: url('../fonts/geomanist-regular-webfont.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+
+}
+
+body{
+
+    font-family: 'Geomanist Regular';
+
+}
+
+#Image_register{
+
+        width: 100%;
+        height: 80vh;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center center;
+        background-size: cover;
+
+}
+
+#container_description{
+
+    width: 50%;
+    margin-left: 25%;   
+    height: 70%;
+    background-color: rgba(0, 0, 0, 0.2);
+
+}
+
+#container_description > div > h1{
+
+    font-size: 55px;
+
+}
+
+#description{
+
+    margin: auto;
+    padding: 10% 0;
+    text-align: left;
+    width: 70%;
+
+}
+
+#subtittle{
+
+    font-size: 22px;
+    align-items: center;
+    line-height: 35px;
+
+}
+
+#btn_form_slash{
+
+    width: 100%;
+    height: 20vh;
+    padding: 2.2% 0;
+    text-align: center;
+
+}
+
+#form_register{
+
+    padding: 3.5% 0;
+    width: 100%;
+    background-color: rgb(252, 252, 252);
+
+}
+
+#forms_line_heigth{
+
+    width: 100%;
+    line-height: 15vh;
+
+}
+
+#input_register{
+
+    height: 6vh;
+
+}
